@@ -6,7 +6,7 @@
 <p>💞️ I’m looking to collaborate on building businesses in a positive way through community and education</p>
 <p>😄 Pronouns: he, him, his</p>
 <h2> Welcome
-/
+
 
 
 
