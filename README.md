@@ -5,8 +5,8 @@
 <h5**Bold Text**>📚Always willing to learn and try new things.</h5>
 <p>💞️ I’m looking to collaborate on building businesses in a positive way through community and education</p>
 <p>😄 Pronouns: he, him, his</p>
-<p**Italic Text**>⚡ Fun fact: Spent 8 years as a chef and another 8 as a boxer. I'm just a glutton for punishment.</p>
-
+<h2> Welcome
+/
 
 
 
